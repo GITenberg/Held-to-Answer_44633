@@ -1,0 +1,32 @@
+_repo: Held-to-Answer_44633
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: King, W. B.
+    gutenberg_agent_id: '34637'
+    url: http://www.gutenberg.org/2009/agents/34637
+covers:
+- cover_type: archival
+  image_path: 44633-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: MacFarlane, Peter Clark
+    alias: MacFarlane, P. C. (Peter Clark)
+    birthdate: 1871
+    deathdate: 1924
+    gutenberg_agent_id: '42846'
+    url: http://www.gutenberg.org/2009/agents/42846
+description: ''
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Held to Answer: A Novel'
+url: http://www.gutenberg.org/ebooks/44633
